@@ -96,6 +96,7 @@ public class Vista extends JFrame {
 			break;
 
 		default:
+			System.out.println();
 			break;
 		}
 	}
